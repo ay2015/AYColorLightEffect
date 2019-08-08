@@ -1,0 +1,13 @@
+D:\wpf demo Study\WpfApplication9\WpfApplication9\bin\Debug\WpfApplication9.exe
+D:\wpf demo Study\WpfApplication9\WpfApplication9\bin\Debug\WpfApplication9.pdb
+D:\wpf demo Study\WpfApplication9\WpfApplication9\obj\Debug\MainWindow.g.cs
+D:\wpf demo Study\WpfApplication9\WpfApplication9\obj\Debug\App.g.cs
+D:\wpf demo Study\WpfApplication9\WpfApplication9\obj\Debug\WpfApplication9_MarkupCompile.cache
+D:\wpf demo Study\WpfApplication9\WpfApplication9\obj\Debug\WpfApplication9_MarkupCompile.lref
+D:\wpf demo Study\WpfApplication9\WpfApplication9\obj\Debug\MainWindow.baml
+D:\wpf demo Study\WpfApplication9\WpfApplication9\obj\Debug\WpfApplication9.g.resources
+D:\wpf demo Study\WpfApplication9\WpfApplication9\obj\Debug\WpfApplication9.Properties.Resources.resources
+D:\wpf demo Study\WpfApplication9\WpfApplication9\obj\Debug\WpfApplication9.csproj.GenerateResource.Cache
+D:\wpf demo Study\WpfApplication9\WpfApplication9\obj\Debug\WpfApplication9.exe
+D:\wpf demo Study\WpfApplication9\WpfApplication9\obj\Debug\WpfApplication9.pdb
+D:\wpf demo Study\WpfApplication9\WpfApplication9\obj\Debug\WpfApplication9.csprojResolveAssemblyReference.cache

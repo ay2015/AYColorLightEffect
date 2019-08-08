@@ -1,0 +1,12 @@
+D:\wpf demo Study\WpfApplication9\WpfApplication9\bin\Release\WpfApplication9.exe
+D:\wpf demo Study\WpfApplication9\WpfApplication9\bin\Release\WpfApplication9.pdb
+D:\wpf demo Study\WpfApplication9\WpfApplication9\obj\Release\MainWindow.g.cs
+D:\wpf demo Study\WpfApplication9\WpfApplication9\obj\Release\App.g.cs
+D:\wpf demo Study\WpfApplication9\WpfApplication9\obj\Release\WpfApplication9_MarkupCompile.cache
+D:\wpf demo Study\WpfApplication9\WpfApplication9\obj\Release\WpfApplication9_MarkupCompile.lref
+D:\wpf demo Study\WpfApplication9\WpfApplication9\obj\Release\MainWindow.baml
+D:\wpf demo Study\WpfApplication9\WpfApplication9\obj\Release\WpfApplication9.g.resources
+D:\wpf demo Study\WpfApplication9\WpfApplication9\obj\Release\WpfApplication9.Properties.Resources.resources
+D:\wpf demo Study\WpfApplication9\WpfApplication9\obj\Release\WpfApplication9.csproj.GenerateResource.Cache
+D:\wpf demo Study\WpfApplication9\WpfApplication9\obj\Release\WpfApplication9.exe
+D:\wpf demo Study\WpfApplication9\WpfApplication9\obj\Release\WpfApplication9.pdb
